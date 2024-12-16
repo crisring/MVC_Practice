@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/properties/database.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/err/403_err.html=UTF-8
+encoding//src/main/webapp/WEB-INF/err/404_err.html=UTF-8
+encoding//src/main/webapp/WEB-INF/err/500_err.html=UTF-8
